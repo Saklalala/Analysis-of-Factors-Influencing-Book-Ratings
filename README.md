@@ -3,7 +3,7 @@
 # Analysis of Factors Influencing Book Ratings
 
 ## Project Overview
-This project explores the factors that influence book ratings using data from the "Book-Crossing: User review ratings" dataset. We employ several machine learning models, including Linear Regression, Decision Tree Regression, and Decision Tree Classification, to predict and understand the relationships within the data.
+This project explores the factors that influence book ratings using data from the "Book-Crossing: User review ratings" dataset in the kaggle. We employ several machine learning models, including Linear Regression, Decision Tree Regression, and Decision Tree Classification, to predict and understand the relationships within the data.
 
 ## Research Question
 What are the factors that influence book ratings?
