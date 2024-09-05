@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1--BWFjtOaQc9fC-n659zvxTvYTzvtcYg
 """
 
-# hi we can use this google colab to write our code part~
-# plz write detailed comments to describe what the code does.
-# In this way, it's not only convenient for us to understand the code to write the report, but also convenient for markers to go through our code
 
 # import necessary libraries
 import pandas as pd
