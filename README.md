@@ -38,6 +38,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - Thanks to Ruchi Bhatia for the dataset provided on Kaggle.
-- Thanks to Dr. James Bailey  (Coordinator & Lecturer) Dr. Eduard Hovy (Coordinator & Lecturer) and tutor Andrew Pham for teaching us  all used data processing and machine leanrning knowledge.
+- Thanks to Dr. James Bailey  (Coordinator & Lecturer),  Dr. Eduard Hovy (Coordinator & Lecturer) and tutor Andrew Pham for teaching us  all used data processing and machine leanrning knowledge.
 
 ---
