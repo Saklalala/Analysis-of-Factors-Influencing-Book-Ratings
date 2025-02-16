@@ -1,5 +1,3 @@
-# EODP Assignment 2 
-
 # Analysis of Factors Influencing Book Ratings
 
 ## Project Overview
